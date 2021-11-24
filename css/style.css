@@ -1,0 +1,28 @@
+/*font-family: 'PT Sans', sans-serif;*/
+
+/*common css*/
+body{
+    font-family:'PT Sans', sans-serif;
+	font-size:16px ;
+	font-weight:400 ;
+	color: #555555;
+}
+header{
+	padding: 20px 0;
+	background-color: #fcdb00;
+}
+.cu_nav{}
+.logo{}
+
+.menu ul li a{
+	margin: 0 30px;
+	font-size: 22px;
+	font-weight: 700;
+	color: #010101 !important;
+}
+.menu ul li:last-child a{
+	margin-right: 0;
+}
+.menu ul li a:hover {
+	color: white !important;
+}
